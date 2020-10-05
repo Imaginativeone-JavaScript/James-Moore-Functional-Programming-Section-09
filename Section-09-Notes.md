@@ -1,0 +1,6 @@
+ - [ ] Section 09: Temperature Unit Conversion Application 0/5 | 22min
+	 - [ ] 47. Application Introduction | 4min
+	 - [ ] 48. Data Model | 2min
+	 - [ ] 49. View Functions | 3min
+	 - [ ] 50. Update Functions | 5min
+	 - [ ] 51. Automatic Temperature Conversions | 7min
